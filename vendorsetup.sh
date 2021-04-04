@@ -1,1 +1,1 @@
-add_lunch_combo omni_a30dd-eng
+add_lunch_combo omni_a30-eng
